@@ -1,4 +1,7 @@
-## Hello...
+# Hello...
 
-- 🔭 I’m currently working on ROBERT! 
-- 📫 How to reach me: matiassolari@icloud.com
+- 🔭 I’m currently working on [robert](https://github.com/msolarig/robert)! 
+- 📫 Reach me: matiassolari@icloud.com
+
+## Sidenote
+- Check out my rotating cube on [cube](https://github.com/msolarig/cube)
