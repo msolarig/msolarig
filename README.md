@@ -4,4 +4,4 @@
 - 📫 Reach me: matiassolari@icloud.com
 
 ## Sidenote
-- Check out my rotating cube on [cube](https://github.com/msolarig/cube)
+- Check out my rotating [cube](https://github.com/msolarig/cube)
