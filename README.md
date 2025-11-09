@@ -1,6 +1,5 @@
 # Hello...
 
-I know me some
 ![Static Badge](https://img.shields.io/badge/Zig-0.15.1-orange),
 ![Static Badge](https://img.shields.io/badge/Python-3.13-blue),
 ![Static Badge](https://img.shields.io/badge/Java-21-darkgreen),
