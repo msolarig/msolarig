@@ -9,4 +9,4 @@
 - 📫 [Reach](mailto:matiassolari@icloud.com) me :)
 
 ## Suggestion
-- Check out the rotating [cube](https://github.com/msolarig/cube) ![Static Badge](https://img.shields.io/badge/It%20rotates-red)
+- Check out the [cube](https://github.com/msolarig/cube) ![Static Badge](https://img.shields.io/badge/It%20rotates-red)
