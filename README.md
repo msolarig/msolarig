@@ -1,9 +1,10 @@
 # Hello....
 
-![Static Badge](https://img.shields.io/badge/Zig-0.15.2-orange)
-![Static Badge](https://img.shields.io/badge/Python-3.13-blue)
-![Static Badge](https://img.shields.io/badge/Java-21-darkgreen)
-![Static Badge](https://img.shields.io/badge/C%23-NinjaScript-maroon)
+
+![Zig](https://img.shields.io/badge/-Zig-05122A?style=flat&logo=zig)&nbsp;
+![Python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-C#-05122A?style=flat&logo=c#)&nbsp;
+![C#](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 
 - 🔭 Currently working on [Zorg](https://github.com/msolarig/zorg)! 
 - 📫 [Reach](mailto:matiassolari@icloud.com) me :)
